@@ -5,7 +5,22 @@ name = "xl-vidio-hendri" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 routes = [
-	{ pattern = "hendri.kpmasjid.xyz", custom_domain = true }
+	{ pattern = "wild.abdla.my.id", custom_domain = true }
+]
+routes = [
+	{ pattern = "www.moengage.com.wild.abdla.my.id", custom_domain = true }
+]
+routes = [
+	{ pattern = "verify.monzo.com.wild.abdla.my.id", custom_domain = true }
+]
+ routes = [
+	{ pattern = "cardinalcommerce.com.wild.abdla.my.id", custom_domain = true }
+]
+ routes = [
+	{ pattern = "dronfield.gov.uk.wild.abdla.my.id", custom_domain = true }
+]
+	routes = [
+	{ pattern = "cdn.easypay.ua.wild.abdla.my.id", custom_domain = true }
 ]
 
 [vars]
@@ -15,4 +30,4 @@ routes = [
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "57705c93-a90c-481a-ac05-05203ccc0cd3"
+UUID = "22fd62da-b08e-4a7a-8d21-b336c7497fe8"
