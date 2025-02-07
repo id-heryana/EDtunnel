@@ -1,11 +1,13 @@
-name = "xl-vidio-hendri" # todo
+name = "xl-vidio-sofyan" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 routes = [
-	{ pattern = "hendri.kpmasjid.xyz", custom_domain = true }
+  { pattern = "sg1.sofyanekafebriyanto.my.id", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.sofyanekafebriyanto.my.id", custom_domain = true },
+  { pattern = "quiz.vidio.com.sofyanekafebriyanto.my.id", custom_domain = true }
 ]
 
 [vars]
@@ -15,4 +17,4 @@ routes = [
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "57705c93-a90c-481a-ac05-05203ccc0cd3"
+UUID = "10ccd380-ff9f-4ace-9df9-3da5b830728d"
